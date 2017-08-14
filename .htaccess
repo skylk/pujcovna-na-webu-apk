@@ -1,0 +1,30 @@
+<IfModule mod_deflate.c>
+  <FilesMatch "\.(js|css|html|ttf|svg)$">
+    SetOutputFilter DEFLATE
+  </FilesMatch>
+</IfModule>
+
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresByType application/x-javascript A604800
+ExpiresByType application/javascript A604800
+ExpiresByType text/javascript A604800
+ExpiresByType text/css A604800
+ExpiresByType text/txt A1
+ExpiresByType text/html A1
+ExpiresByType text/php A1
+ExpiresByType image/gif A604800
+ExpiresByType image/jpeg A604800
+ExpiresByType image/jpg A604800
+ExpiresByType image/p-jpeg A604800
+ExpiresByType image/png A604800
+ExpiresDefault A36000
+</IfModule>
+## EXPIRES CACHING ##
+
+ErrorDocument 404 /index.php
+Redirect 301 /nafukovaci_skakaci_hrad.html /nafukovaci_skakaci_hrad.php
+Redirect 301 /svareci_technika.html /svareci_technika.php
+Redirect 301 /bouraci_vrtaci_technika.html /bouraci_vrtaci_technika.php
+

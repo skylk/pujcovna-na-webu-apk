@@ -1,0 +1,21 @@
+
+						<h1><a href="index.php">GradeD MG s.r.o.</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.php">Domů</a></li>
+											<li><a href="index.php#tools">Výběr nářadí</a></li>
+											<li><a href="download/cenik.pdf">Ceník</a></li>
+											<li><a href="obchodni_podminky.php">Nájemní podmínky</a></li>
+											<li><a href="prodej_servis.php">Prodej a servis</a></li>
+											<li><a href="nafukovaci_skakaci_hrad.php">Zábavné atrakce</a></li>
+											<li><a href="navody.php">Návody</a></li>
+											<li><a href="index.php#kontakt">Kontakt</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>

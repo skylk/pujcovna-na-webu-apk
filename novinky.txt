@@ -1,0 +1,9 @@
+{
+  "text" : "Nově máme v pujčovně akumulátorovou okružní pilu s nízkou hmotností pro řezání materiálů o tloušťce do 57 mm <a href=\"rezaci_brousici_technika.html\" >Hilti SCW 22-A</a> a výkonný akumulátorový příklepový vrtací šroubovák <a href=\"bouraci_vrtaci_technika.html#aku_vrtacky\" >Hilti SF 6H-A22</a>.",
+  "zobrazit" : "ano",
+  "platnost" : {
+  	"den" : 30,
+	"mesic" : 6,
+	"rok" : 2017
+	}
+}
