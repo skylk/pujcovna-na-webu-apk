@@ -18,10 +18,8 @@
   </author>
 
 <plugin name="InAppBrowser" value="CDVInAppBrowser" />
-    <allow-navigation href="*" />
-    
-    <phonegap>
-    <access origin="https://abcx.com" subdomains="true" />
-</phonegap>
+
+    <access origin="*" />
+
 </widget>
 
