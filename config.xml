@@ -20,6 +20,7 @@
 
 
     <access origin="*" />
+    <plugin name="cordova-plugin-inappbrowser" spec="^1.7.1" />
 
 </widget>
 
