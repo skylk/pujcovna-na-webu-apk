@@ -19,7 +19,12 @@
 
 
 
+  
+    
     <access origin="*" />
+    <allow-intent href="*" />
+    <allow-navigation href="*" />
+    
     <plugin name="cordova-plugin-inappbrowser" spec="^1.7.1" />
 
 </widget>
