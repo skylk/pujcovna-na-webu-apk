@@ -17,5 +17,6 @@
       GradeD MG s.r.o
   </author>
 
-</widget>
 <plugin name="InAppBrowser" value="CDVInAppBrowser" />
+</widget>
+
