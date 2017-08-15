@@ -27,7 +27,9 @@
     
     <plugin name="cordova-plugin-inappbrowser" spec="1.7.1" />
     <plugin name="cordova-plugin-file-transfer"  />
-    <plugin name="cordova-plugin-file-opener"  />
+    <plugin name="cordova-plugin-file-opener"  /> 
+    <plugin name="cordova-plugin-whitelist"  />
+    
     
 
 </widget>
